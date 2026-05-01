@@ -67,14 +67,6 @@ Approximately **358,000 maternal mortalities** are recorded worldwide every year
 | Classifier | Accuracy |
 |-----------|----------|
 | **Random Forest** | **~89%** ← best |
-| Gradient Boosting | — |
-| XGBoost | — |
-| CatBoost | — |
-| Extra Trees | — |
-| Voting Classifier | — |
-| Decision Tree | — |
-| Logistic Regression | — |
-| SGD Classifier | — |
 
 | Metric | Value |
 |--------|-------|
